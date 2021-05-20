@@ -2,7 +2,7 @@
 Common files For Epocalyps
 
 <p align="center">
-    <img src="https://github.com/emodyz/MultigamingPanel/workflows/Emodyz%20v6/badge.svg">
+    <img src="https://github.com/joueurgear/Epocalyps/workflows/Epocalyps/badge.svg">
 </p>
 
 ## What does this project offer ?
