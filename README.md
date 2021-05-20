@@ -1,5 +1,6 @@
 # Epocalyps
 Common files For Epocalyps
+Based on Intel® Server System R2312SC2SHGR in my home.
 
 <p align="center">
     <img src="https://github.com/joueurgear/Epocalyps/workflows/Epocalyps/badge.svg">
