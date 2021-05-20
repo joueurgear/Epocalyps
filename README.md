@@ -11,12 +11,20 @@ After long months of waiting,
 here is a new version of the previously InfinityPlay, Now called Epocalyps.
 The Server has always for objective, a Multi-Gaming infrastructure brings together in the same place, a single space
 
+Here are the features included right out of the box :
+
+- [x] Compatibility with Windows (will evolve with updates)
+- [x] Users management
+- [x] Possibility of multiple Mod Pack
+- [x] Automatic multi-thread
+- [x] New technology (Web interface and Launcher)
+
 ## Documentation
 
 COMING SOON
 
 ## Supported Games
-MC, WoW Légion, Space Engineer, and more...
+MC, WoW Légion, Space Engineer, ARK and more...
 
 ## Epocalyps Information:
 Last version: 1.0
