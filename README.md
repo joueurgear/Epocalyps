@@ -11,26 +11,24 @@ After long months of waiting,
 here is a new version of the previously InfinityPlay, Now called Epocalyps.
 The Server has always for objective, a Multi-Gaming infrastructure brings together in the same place, a single space
 
-# Supported Games
+## Documentation
+
+COMING SOON
+
+## Supported Games
 MC, WoW Légion, Space Engineer, and more...
 
-Epocalyps Information:
+## Epocalyps Information:
 Last version: 1.0
 Version: 1.0
 Release date: 28/05/2020 19:24
 
-Launcher Information:
+## Launcher Information:
 Last version:
 Version: -
 Release date: -
 
-Copyright Epocalyps © 2019 - 2021
-
-If you have any question or suggestion you can talk with the dev team on Discord:
-Soon
-
-
-Coming soon:
+## Coming soon:
 Login with forum, facebook, etc ...
 More stats ingame
 Donation system
@@ -44,3 +42,5 @@ In particular, we offer managed hosting spaces for you.
 Our objective is twofold, 
 we want to facilitate your technical "server" management and guarantee you the performance required for our products.
 It also helps us to finance the various tools we use in order to provide you with more and more features.
+
+Copyright Epocalyps © 2019 - 2021
