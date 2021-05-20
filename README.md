@@ -35,3 +35,12 @@ Login with forum, facebook, etc ...
 More stats ingame
 Donation system
 Profile editing
+
+## Epocalyps Sponsors
+
+You can sponsor us through various means. 
+
+In particular, we offer managed hosting spaces for you. 
+Our objective is twofold, 
+we want to facilitate your technical "server" management and guarantee you the performance required for our products.
+It also helps us to finance the various tools we use in order to provide you with more and more features.
